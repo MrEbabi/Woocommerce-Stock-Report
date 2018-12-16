@@ -64,6 +64,7 @@ function myplguin_admin_page(){
 		<br>
 	</div>
 	<?php
+//the products that will be shown in the table are limited by 100. You may change this value to extend the table.
 	$args = array(
 		'limit' => 100,
 		'stock_status' => "instock"
