@@ -1,7 +1,7 @@
 # woocommerce-stock-report
 PHP Code For Woocommerce Stock Quantity and Stock-In-Trade Report
 
-Kindly check "", "" and "" codes.
+Kindly check "admin-menu", "quantity-shortcode" and "detailed-stock-reports" codes.
 
 With these codes, you can create a Details Stock Report section in the admin menu.
 
