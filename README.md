@@ -16,3 +16,5 @@ Finally, total stock quantity and total stock-in-trade value calculated.
 Attention: The Stock-In-Trade values are calculated using regular prices of the products and variations.
 
 You may check attached png files to see how it looks.
+-----
+Source code will be updated as a plugin later.
