@@ -17,4 +17,4 @@ Attention: The Stock-In-Trade values are calculated using regular prices of the 
 
 You may check attached png files to see how it looks.
 -----
-Source code will be updated as a plugin later.
+Source code will be updated as a custom plugin later. Ongoing.
