@@ -10,9 +10,10 @@ Current Operations on Product Table:
 
 To-Do:
 
-- Multiple selection to apply percentage or fixed discounts to products
+- Checkboxes for multiple selection to apply a change (stock, regular price or sale price)
+- Percentage entry for regular price and sale price
 - Hide/Show Product 
-- Regular Price Change Log
-- Sale Price Change Log
+- Regular Price Change Log (done)
+- Sale Price Change Log (done)
 
 Code will be updated with the final version.
