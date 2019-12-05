@@ -1,4 +1,4 @@
-# Woocommerce Inventory Management System
+# Woocommerce Inventory Management and Advanced Reports
 PHP Code For Woocommerce Product Stock/Price Management and Advanced Reports
 
 Current Operations on Product Table:
@@ -6,7 +6,6 @@ Current Operations on Product Table:
 - Change Regular Price
 - Change Sale Price
 - Stock-In-Trade Report
-- Stock Change Log
 
 To-Do:
 
@@ -15,5 +14,10 @@ To-Do:
 - Hide/Show Product 
 - Regular Price Change Log (done)
 - Sale Price Change Log (done)
+- Most Selling Products Report
+- Most Spending Users Report
+- Most Ordering Users Report (done - work on CSS)
+- Most Reviewing Users Report
+- Most Used Coupons Report
 
 Code will be updated with the final version.
