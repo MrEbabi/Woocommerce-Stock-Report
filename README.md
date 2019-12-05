@@ -1,5 +1,5 @@
 # Woocommerce Inventory Management System
-PHP Code For Woocommerce Product Stock/Price Management and Stock-In-Trade & Stock/Price Change Report
+PHP Code For Woocommerce Product Stock/Price Management and Advanced Reports
 
 Current Operations on Product Table:
 - Change Stock
