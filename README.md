@@ -20,4 +20,4 @@ To-Do:
 - Most Reviewing Users Report
 - Most Used Coupons Report
 
-Code will be updated with the final version.
+First release of plugin will be published on codecanyon soon.
