@@ -14,9 +14,12 @@ To-Do:
 - Hide/Show Product 
 - Regular Price Change Log (done)
 - Sale Price Change Log (done)
+
+Advanced Reports:
+
 - Most Selling Products Report
 - Most Spending Users Report
-- Most Ordering Users Report (done - work on CSS)
+- Most Ordering Users Report
 - Most Reviewing Users Report
 - Most Used Coupons Report
 
