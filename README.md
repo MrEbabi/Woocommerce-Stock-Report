@@ -19,8 +19,8 @@ Advanced Reports:
 
 - Most Selling Products Report
 - Most Spending Users Report
-- Most Ordering Users Report
-- Most Reviewing Users Report
+- Most Ordering Users Report (function is done, optimized to 10 seconds, CSS will be added.)
+- Most Reviewing Users Report (function is done, 40 seconds, CSS will be added.)
 - Most Used Coupons Report
 
 First release of plugin will be published on codecanyon soon.
