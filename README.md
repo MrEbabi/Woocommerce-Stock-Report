@@ -20,4 +20,8 @@ To-Do:
 - Sale Price Change Log (done)
 - Most Used Coupons Report
 
+Bug:
+
+- When a regular price or sale price is updated, it also tries to update stock with empty input, no change in stock numbers but shows it in the operation logs with a blank alert ( Stock is updated. Old Stock: X, New Stock: ).
+
 First release of plugin will be published on codecanyon soon.
