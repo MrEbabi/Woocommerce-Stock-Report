@@ -19,6 +19,7 @@ To-Do:
 - Regular Price Change Log (done)
 - Sale Price Change Log (done)
 - Most Used Coupons Report
+- Separate functions for advanced reports
 
 Bug:
 
