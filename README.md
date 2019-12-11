@@ -6,11 +6,11 @@ Current:
 - Change Regular Price
 - Change Sale Price
 - Stock-In-Trade Report
-- Most Spending Users Report (function is done, optimized to ≈ 10 seconds, CSS will be added.)
-- Most Ordering Users Report (function is done, optimized to ≈10 seconds, CSS will be added.)
-- Most Reviewing Users Report (function is done, optimized to ≈5 seconds, CSS will be added.)
-- Most Selling Products Report (function is done, optimized to ≈15 seconds, CSS will be added.)
-- Most Used Coupons Report (function is done, optimized to ≈15 seconds, CSS will be added.)
+- Most Spending Users Report (function is done, optimized to ≈ 10 seconds tested with 5000 orders, CSS will be added.)
+- Most Ordering Users Report (function is done, optimized to ≈10 seconds tested with 5000 orders, CSS will be added.)
+- Most Reviewing Users Report (function is done, optimized to ≈5 seconds tested with 500 reviews, CSS will be added.)
+- Most Selling Products Report (function is done, optimized to ≈15 seconds tested with 5000 orders, CSS will be added.)
+- Most Used Coupons Report (function is done, optimized to ≈15 seconds tested with 5000 orders, CSS will be added.)
 - Separate functions for advanced reports
 - Regular Price Change Log
 - Sale Price Change Log
