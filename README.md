@@ -21,6 +21,12 @@ To-Do:
 - Percentage entry for regular price and sale price
 - Hide/Show Product 
 
+Plugin To-Do:
+
+- Text strings must be translatable and escaped.
+- Comments in English.
+- Sanitize all POST and GET data.
+
 Bug:
 
 - When a regular price or sale price is updated, it also tries to update stock with empty input, no change in stock numbers but shows it in the operation logs with a blank alert (done).
