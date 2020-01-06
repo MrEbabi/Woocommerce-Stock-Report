@@ -23,9 +23,9 @@ To-Do:
 
 Plugin To-Do:
 
-- Text strings must be translatable and escaped.
-- Comments in English.
-- Sanitize all POST and GET data.
+- Text strings must be translatable and escaped. ++
+- Comments in English. 
+- Sanitize all POST and GET data. ++
 
 Bug:
 
