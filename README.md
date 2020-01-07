@@ -1,7 +1,8 @@
 # Woocommerce Inventory Management and Advanced Reports
 PHP Code For Woocommerce Product Stock/Price Management and Advanced Reports
 
-Current:
+Current Features:
+
 - Change Stock
 - Change Regular Price
 - Change Sale Price
@@ -23,9 +24,10 @@ To-Do:
 
 Plugin To-Do:
 
-- Text strings must be translatable and escaped. ++
-- Comments in English. 
+- Text strings must be escaped. ++
+- Comments in English. ++
 - Sanitize all POST and GET data. ++
+- Text strings must be translatable.
 
 Bug:
 
