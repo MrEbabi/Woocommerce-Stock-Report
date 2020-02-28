@@ -22,8 +22,8 @@ To-Do:
 - Percentage entry for regular price and sale price
 - Hide/Show Product
 - Remember the form selection after submit
+- Feedback option in the plugins page (concerning advance reports generation time problems)
 
 Release:
 
-- Source code turn into plugin (done).
 - First release of plugin will be published on Wordpress soon.
